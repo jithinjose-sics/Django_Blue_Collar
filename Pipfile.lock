@@ -1,11 +1,11 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "85b203785ea91a65e03a4d1e5478c5d3f89184dd6f734f23bf4d2df23da8b65b"
+            "sha256": "fe8e4663abe597a4e26960e31fe20b8dc9a6ae7ebe38fdf9974d692ee90f4c52"
         },
         "pipfile-spec": 6,
         "requires": {
-            "python_version": "3.10"
+            "python_version": "3.11"
         },
         "sources": [
             {
@@ -22,7 +22,6 @@
                 "sha256:c343bd80a0bec947a9860adb4c432ffa7db769836c64238fc34bdc3fec84d590"
             ],
             "index": "pypi",
-            "markers": "python_version >= '3.8'",
             "version": "==3.8.1"
         },
         "beautifulsoup4": {
@@ -31,7 +30,6 @@
                 "sha256:b80878c9f40111313e55da8ba20bdba06d8fa3969fc68304167741bbf9e082ed"
             ],
             "index": "pypi",
-            "markers": "python_full_version >= '3.6.0'",
             "version": "==4.12.3"
         },
         "django": {
@@ -40,7 +38,6 @@
                 "sha256:f27f8544c9d4c383bbe007c57e3235918e258364577373d4920e9162837be022"
             ],
             "index": "pypi",
-            "markers": "python_version >= '3.6'",
             "version": "==3.2.6"
         },
         "django-bootstrap4": {
@@ -49,7 +46,6 @@
                 "sha256:c5c97fb473bb56e3a91b4f4be52b74a3fc384ec3baae50dd0807fa922a55ec2b"
             ],
             "index": "pypi",
-            "markers": "python_version >= '3.6'",
             "version": "==3.0.1"
         },
         "django-filter": {
@@ -58,7 +54,6 @@
                 "sha256:e00d32cebdb3d54273c48f4f878f898dced8d5dfaad009438fe61ebdf535ace1"
             ],
             "index": "pypi",
-            "markers": "python_version >= '3.5'",
             "version": "==2.4.0"
         },
         "pillow": {
@@ -133,7 +128,6 @@
                 "sha256:fe4c15f6c9285dc54ce6553a3ce908ed37c8f3825b5a51a15c91442bb955b868"
             ],
             "index": "pypi",
-            "markers": "python_version >= '3.8'",
             "version": "==10.2.0"
         },
         "pytz": {
@@ -150,7 +144,6 @@
                 "sha256:eaa337ff55a1579b6549dc679565eac1e3d000563bcb1c8ab0d0fefbc0c2cdc7"
             ],
             "index": "pypi",
-            "markers": "python_version >= '3.8'",
             "version": "==2.5"
         },
         "sqlparse": {
@@ -159,7 +152,6 @@
                 "sha256:d446183e84b8349fa3061f0fe7f06ca94ba65b426946ffebe6e3e8295332420c"
             ],
             "index": "pypi",
-            "markers": "python_version >= '3.5'",
             "version": "==0.4.4"
         },
         "typing-extensions": {
@@ -168,7 +160,6 @@
                 "sha256:b0abd7c89e8fb96f98db18d86106ff1d90ab692004eb746cf6eda2682f91b3cb"
             ],
             "index": "pypi",
-            "markers": "python_version >= '3.8'",
             "version": "==4.10.0"
         }
     },
